@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "list-search-tool",
+      "title": "List Search Tool",
+      "description": "Practice searching Python lists with loops: find a value and count its occurrences",
+      "path": "assignments/list-search-tool",
+      "dueDate": "2026-11-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
